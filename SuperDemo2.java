@@ -24,7 +24,7 @@ void work(){
     eat();
 }
 }
-class superDemo2{
+class SuperDemo2{
     public static void main(String args[]){
         Dog d=new Dog();
         d.work();
