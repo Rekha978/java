@@ -9,7 +9,7 @@ void printcolor(){
     System.out.println("Animal color is " +super.color);
 }
 }
-class superDemo1{
+class SuperDemo1{
     public static void main(String args[]){
         Dog d=new Dog();
         d.printcolor();
