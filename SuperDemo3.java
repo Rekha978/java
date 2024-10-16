@@ -25,7 +25,7 @@ class Animal{
             super.eat();
         }
     }
-public class superDemo3{
+public class SuperDemo3{
     public static void main(String args[]){
         Dog d=new Dog();
         d.printcolor();
